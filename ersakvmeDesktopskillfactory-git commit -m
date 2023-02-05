@@ -1,0 +1,36 @@
+[33mcommit c0c127ce89e8bc838ee7e4619e82fd18250d3ce3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kei1357 <tatianatikhon@gmail.com>
+Date:   Sun Feb 5 15:27:52 2023 +1000
+
+    A file has beed removed
+
+[33mcommit c65e66b11a5ad0e2747f816c9301dfce9b04991f[m
+Merge: a408df0 130cd27
+Author: Kei1357 <tatianatikhon@gmail.com>
+Date:   Sat Feb 4 16:26:09 2023 +1000
+
+    Merge branch 'master' of https://github.com/Kei1357/-
+
+[33mcommit 130cd2727752c88f76aa10f36e1dee1befa05472[m
+Author: Kei1357 <123717135+Kei1357@users.noreply.github.com>
+Date:   Sat Feb 4 16:13:39 2023 +1000
+
+    Delete 444.txt
+
+[33mcommit a408df0d3aa5c1f41c3265434a9a58394864e66f[m
+Author: Kei1357 <tatianatikhon@gmail.com>
+Date:   Sat Feb 4 16:12:40 2023 +1000
+
+    A new file is added
+
+[33mcommit 471267e66e143e791d02f38306436251814b810d[m
+Author: Kei1357 <123717135+Kei1357@users.noreply.github.com>
+Date:   Sat Feb 4 15:57:34 2023 +1000
+
+    Add files via upload
+
+[33mcommit e1c475dba0740fe7fdd0abca2295886f2228b574[m
+Author: Kei1357 <123717135+Kei1357@users.noreply.github.com>
+Date:   Sat Feb 4 15:47:20 2023 +1000
+
+    Initial commit
