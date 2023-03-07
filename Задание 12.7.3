@@ -1,9 +1,10 @@
-money = 100000
+money = int(input('Введите сумму вклада: '))
 per_cent = {'ТКБ': 5.6, 'СКБ': 5.9, 'ВТБ': 4.28, 'СБЕР': 4.0}
 a = money*per_cent['ТКБ']/100
 b = money*per_cent['СКБ']/100
 c = money*per_cent['ВТБ']/100
 d = money*per_cent['СБЕР']/100
-deposit = [int(a), int(b), int(c), int(d)]
-print (deposit)
-print ('Максимальная сумма, которую вы можете заработать —', max(deposit))
+deposit = [a, b, c, d]
+print('"ТКБ": %d,' % (a), '"СКБ": %d,' % (b), '"ВТБ": %d,' % (c), '"СБЕР": %d. ' % (d))
+
+print('Максимальная сумма, которую вы можете заработать —', round(max(deposit)))
